@@ -37,7 +37,4 @@ Params:
   widgets:
     recent_num: 5
     tags_counter: no
-    search:
-      url: "/search/"
-      input.name: true
-      input.pre: ""
+""
