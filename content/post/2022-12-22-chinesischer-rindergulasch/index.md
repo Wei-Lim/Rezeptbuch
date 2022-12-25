@@ -22,11 +22,11 @@ für 6 Personen
 Vorbereitungszeit 30 min. Kochzeit 2 h.
 
 Zutat | Menge 
----|---:
+:---|---:
 Suppenfleisch (Rind) | 1 kg
-Karotten | 
+Karotten | 8 Karotten
 Ingwer | 3 Stück (Daumengröße)
-Tomatenmark | 1 Tube
+Tomatenmark | 2 Tuben
 Knoblauch | 4 Zehen
 Zwiebeln | 6
 Fünf-Gewürze-Pulver 五香粉 |
@@ -39,7 +39,7 @@ Salz, Pfeffer, Zucker | zum Abschmecken
 
 ### Vorbereitung
 
-- Suppenfleisch mundgerecht würfeln (1,5 cm Kantenlänge)
+- Suppenfleisch mundgerecht würfeln (1 cm Kantenlänge)
 - Karotten schälen und in mundgerechte Stücke (1,5 cm) schneiden.
 - Ingwer schälen und in daumengroße Stücke schneiden.
 - Knoblauch fein zerhacken.
