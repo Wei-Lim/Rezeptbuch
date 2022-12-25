@@ -37,11 +37,11 @@ Käse (optional) | gerieben
 - Reis waschen
 
 ### Zubereitung
-- Zwiebeln mit Butter in einer Pfanne andünsten
-- Reis hinzugeben und anbraten bis die Zwiebeln glasig sind
-- Pfanne mit Apfelsaft und Gemüsebrühe ablöschen
-- Pfanne abdecken und köcheln lassen
-- Nach dem Reis gar gekocht ist, werden die Apfelstücke in die Pfanne gegeben und kurz angebraten
-- Optional: Geriebenen Käse drüber streuen 
+1. Zwiebeln mit Butter in einer Pfanne andünsten
+2. Reis hinzugeben und anbraten bis die Zwiebeln glasig sind
+3. Pfanne mit Apfelsaft und Gemüsebrühe ablöschen
+4. Pfanne abdecken und köcheln lassen
+5. Nach dem Reis gar gekocht ist, werden die Apfelstücke in die Pfanne gegeben und kurz angebraten
+6. Optional: Geriebenen Käse drüber streuen 
 
 
