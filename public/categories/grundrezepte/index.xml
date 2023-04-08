@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grundrezepte on Mainroad</title>
+    <link>/categories/grundrezepte/</link>
+    <description>Recent content in Grundrezepte on Mainroad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/grundrezepte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ziehnudeln 拉面</title>
+      <link>/post/2022-12-23-ziehnudeln/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-23-ziehnudeln/</guid>
+      <description>Beschreibung Vorerst nur das Mischverhältnis für den Nudelteig bestimmt. Das ist noch zu optimieren.
+Zutatenliste Für 2 Personen:
+Zutat Menge Weizenmehl Typ 1050 (9,8% Eiweiß) 261 g Hefeflocken 17 g (6,5%) Salz 5 g (1,92%) Pflanzenöl 7 g (2,68%) Wasser 163 g (62,5%) Zubereitung Alle Zutaten mixen und ziehen.</description>
+    </item>
+    
+    <item>
+      <title>Fischsoßenessig</title>
+      <link>/post/2022-12-17-fischso-enessig/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-17-fischso-enessig/</guid>
+      <description>Beschreibung Fischsoßenessig wird besonders in der vietnamnesischen Küche verwendet, um die Speisen zu verfeinern. Passt besonders gut als Soße zu Reis oder zu Salat.
+Zutatenliste Zutat Menge Wasser 2 Tassen Zucker 1 Tasse Fischsoße 1 Tasse Weinbrandt- oder Apfelessig (5 %) 1/2 Tasse Zubereitung Alle Zutaten mixen.</description>
+    </item>
+    
+  </channel>
+</rss>
